@@ -1,0 +1,28 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "iOS" : [
+    {
+      "identifier" : "ios-arm64",
+      "name" : "IQKeyboardManagerSwift",
+      "hash" : "1112b8964569bd89a615958331f91f099e1fa0a48584c90791ecf143352fd12a",
+      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)",
+      "container" : "IQKeyboardManagerSwift.xcframework"
+    },
+    {
+      "identifier" : "ios-arm64_x86_64-simulator",
+      "hash" : "7378c1e05ea9e67861e24e169dc834869fb87ddb452ffd3d55cc6d1b6e7a665f",
+      "name" : "IQKeyboardManagerSwift",
+      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)",
+      "container" : "IQKeyboardManagerSwift.xcframework"
+    }
+  ],
+  "commitish" : "46822dd23f34de51c6230ce70c036aa226dc6f2a"
+}
