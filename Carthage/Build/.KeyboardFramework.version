@@ -1,39 +1,27 @@
 {
-  "Mac" : [
-
-  ],
-  "commitish" : "479215216e976d6b6750be64d73510bbde199273",
   "iOS" : [
     {
+      "container" : "IQKeyboardManagerSwift.xcframework",
+      "identifier" : "ios-arm64",
+      "name" : "IQKeyboardManagerSwift",
       "hash" : "1112b8964569bd89a615958331f91f099e1fa0a48584c90791ecf143352fd12a",
-      "identifier" : "ios-arm64",
-      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)",
-      "container" : "IQKeyboardManagerSwift.xcframework",
-      "name" : "IQKeyboardManagerSwift"
+      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
     },
     {
+      "name" : "IQKeyboardManagerSwift",
+      "hash" : "085387a2633a06157cc5cd54b7ee9ba937d3c27d40b6423d8b9ba712e9388970",
       "identifier" : "ios-arm64_x86_64-simulator",
-      "container" : "IQKeyboardManagerSwift.xcframework",
-      "hash" : "fdcfccd4012e8ce88d19475e008e869b23136205e9730ba250055e3dd31cb4f0",
       "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)",
-      "name" : "IQKeyboardManagerSwift"
-    },
-    {
-      "name" : "Pods_KeyboardFramework",
-      "hash" : "1653b5910c8924169eb148c608535d16988c5952de09b6d2a95d8ef97f4a2450",
-      "identifier" : "ios-arm64_x86_64-simulator",
-      "container" : "Pods_KeyboardFramework.xcframework"
-    },
-    {
-      "hash" : "ade7aca7c736d1de33e855f8bed6bd83917e0f634267978ec2148aebf3ebcedd",
-      "container" : "Pods_KeyboardFramework.xcframework",
-      "identifier" : "ios-arm64",
-      "name" : "Pods_KeyboardFramework"
+      "container" : "IQKeyboardManagerSwift.xcframework"
     }
   ],
   "watchOS" : [
 
   ],
+  "Mac" : [
+
+  ],
+  "commitish" : "e8a394f8e97c13dac3ed1e833baddfde981dea79",
   "tvOS" : [
 
   ]

@@ -18,7 +18,7 @@ post_install do |installer|
 end
 
 
-pod 'IQKeyboardManagerSwift'
+pod 'IQKeyboardManagerSwift', '7.0.0'
 
 
 end
